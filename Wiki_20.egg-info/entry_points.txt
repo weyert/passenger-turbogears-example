@@ -1,0 +1,3 @@
+[console_scripts]
+start-wiki20 = wiki20.commands:start
+
